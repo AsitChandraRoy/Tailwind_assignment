@@ -1,0 +1,5 @@
+{
+    "source": "/feedback/((?!general).*)",
+    "destination": "/api/feedback/general",
+      "buildCommand": "next build"
+  }
