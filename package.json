@@ -1,9 +1,10 @@
 {
   "name": "tailwind_assignment",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "vite"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -15,5 +16,6 @@
   },
   "dependencies": {
     "go": "^3.0.1"
-  }
+  },
+  "description": ""
 }
